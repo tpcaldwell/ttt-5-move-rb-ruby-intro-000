@@ -12,4 +12,3 @@ board = [
 ]
 
 puts "Where would you like to go?"
-
