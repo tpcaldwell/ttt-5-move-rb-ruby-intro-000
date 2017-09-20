@@ -12,3 +12,4 @@ board = [
 ]
 
 puts "Where would you like to go?"
+index = gets.strip
