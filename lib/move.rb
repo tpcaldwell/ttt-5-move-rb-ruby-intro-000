@@ -12,3 +12,4 @@ def input_to_index(user_input)
   x - 1
 end
 def move(array, index, value = "X")
+end
