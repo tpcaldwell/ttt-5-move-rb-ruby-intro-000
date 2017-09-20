@@ -12,6 +12,6 @@ board = [
 ]
 
 puts "Where would you like to go?"
-index = gets.strip
-index = input_to_index(index)
+i = gets.strip
+index = input_to_index(i)
 move(board, index, "x")
